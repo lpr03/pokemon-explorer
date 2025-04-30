@@ -16,6 +16,7 @@ Search by name, filter by type, and enjoy a sleek, dark-themed UI.
 - React (with Hooks)
 - JavaScript (ES6+)
 - CSS (custom dark theme)
+- Hosted on Vercel
 
 ## 🛠 Installation
 
